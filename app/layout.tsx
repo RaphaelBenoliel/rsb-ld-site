@@ -8,7 +8,6 @@ const geistSans = localFont({
       path: "../public/fonts/geist-sans/Geist-Variable.woff2",
       weight: "100 900",
       style: "normal",
-      format: "woff2"
     }
   ],
   variable: "--font-geist-sans",
@@ -21,7 +20,6 @@ const geistMono = localFont({
       path: "../public/fonts/geist-mono/GeistMono-Variable.woff2",
       weight: "100 900",
       style: "normal",
-      format: "woff2"
     }
   ],
   variable: "--font-geist-mono",
