@@ -1,0 +1,34 @@
+{
+  "nav": { "institutions": "Institutions", "students": "Students", "about": "About", "devis": "Quote", "contact": "Contact" },
+  "cta": { "book": "Book a call", "requestQuote": "Request a quote", "seePacks": "See packs", "contactUs": "Contact us" },
+  "home": {
+    "hero": { "kicker": "Learning & Development", "title": "Premium training engineering and academic mentoring.", "subtitle": "English content coming soon." },
+    "audience": {
+      "institutionTitle": "You are an institution", "institutionBody": "Training engineering, compliance, deployment.",
+      "institutionCta": "Explore institutions",
+      "studentTitle": "You are a student", "studentBody": "Thesis, projects, BTS: methodology and oral prep.",
+      "studentCta": "Explore students"
+    },
+    "services": { "title": "Services" },
+    "values": { "items": [] },
+    "faq": { "title": "FAQ", "items": [] }
+  },
+  "institutions": { "title": "Institutions", "intro": "English content coming soon." },
+  "students": { "title": "Students", "intro": "English content coming soon." },
+  "about": { "title": "About", "intro": "English content coming soon.", "section1Title": "Profile", "section1Body": "Soon.", "values": [], "processTitle": "Process", "processBody": "Soon." },
+  "devis": { "title": "Quote", "intro": "English content coming soon.", "studentsTitle": "Students", "studentsBody": "Soon.", "institutionsTitle": "Institutions", "institutionsBody": "Soon.", "bookTitle": "Book", "bookBody": "Soon." },
+  "contact": { "title": "Contact", "intro": "English content coming soon." },
+  "serviceBlocks": { "problemTitle": "Problem", "objectiveTitle": "Objective", "methodTitle": "Method", "expertiseTitle": "Expertise", "benefitTitle": "Benefit", "relatedTitle": "Related" },
+  "services": {
+    "formation": { "kicker": "Institutions", "title": "Training Engineering Consulting", "short": "Soon.", "problem": "Soon.", "objective": "Soon.", "methodology": [], "expertise": [], "benefit": "Soon." },
+    "interventions": { "kicker": "Institutions", "title": "Expert Teaching Interventions", "short": "Soon.", "problem": "Soon.", "objective": "Soon.", "methodology": [], "expertise": [], "benefit": "Soon." },
+    "memoires": { "kicker": "Students", "title": "Thesis & Projects Mentoring", "short": "Soon.", "problem": "Soon.", "objective": "Soon.", "methodology": [], "expertise": [], "benefit": "Soon." },
+    "bts": { "kicker": "Students", "title": "BTS Tertiary Coaching", "short": "Soon.", "problem": "Soon.", "objective": "Soon.", "methodology": [], "expertise": [], "benefit": "Soon." }
+  },
+  "packs": { "title": "Student Packs", "priceNote": "On request", "cta": "Request a quote", "items": [] },
+  "forms": {
+    "contact": { "name": "Name", "email": "Email", "phone": "Phone (optional)", "audience": "Audience", "audienceInstitution": "Institution", "audienceStudent": "Student", "subject": "Subject", "message": "Message", "submit": "Send", "sending": "Sending…", "success": "Sent.", "error": "Error." },
+    "devis": { "title": "Quote request", "name": "Name", "email": "Email", "phone": "Phone", "service": "Service", "serviceGeneral": "General", "serviceMemoires": "Thesis", "serviceBts": "BTS", "serviceFormation": "Training Engineering", "serviceInterventions": "Teaching", "pack": "Pack", "packPlaceholder": "e.g. Performance", "deadline": "Deadline", "details": "Details", "submit": "Send", "sending": "Sending…", "success": "Sent.", "error": "Error." }
+  },
+  "footer": { "title": "RSB Learning & Development", "subtitle": "English content coming soon.", "navTitle": "Navigation", "institutions": "Institutions", "students": "Students", "about": "About", "devis": "Quote", "contact": "Contact", "strongTopicsTitle": "Topics", "topic1": "Thesis", "topic2": "BTS", "topic3": "Training Engineering", "copyright": "© RSB." }
+}

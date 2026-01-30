@@ -1,0 +1,221 @@
+{
+  "nav": {
+    "institutions": "Pôle Institutions",
+    "students": "Pôle Étudiants",
+    "about": "Accueil",
+    "devis": "Devis",
+    "contact": "Contact"
+  },
+  "cta": {
+    "book": "Prendre RDV",
+    "requestQuote": "Demander un devis",
+    "seePacks": "Découvrir les packs",
+    "contactUs": "Nous contacter"
+  },
+  "home": {
+    "hero": {
+      "kicker": "Ingénierie de Formation & Pédagogie",
+      "title": "Des dispositifs solides. Des étudiants qui performent.",
+      "subtitle": "Architecte de vos dispositifs, mentor de vos diplômés : l'expertise au service d'une réussite anticipée."
+    },
+    "audience": {
+      "institutionTitle": "Vous êtes un établissement",
+      "institutionBody": "Conception, conformité et déploiement opérationnel de vos parcours certifiants.",
+      "institutionCta": "Explorer le pôle Institutions",
+      "studentTitle": "Vous êtes un étudiant",
+      "studentBody": "Mémoire, projet tutoré, BTS : une méthode claire, des livrables solides, une soutenance maîtrisée.",
+      "studentCta": "Explorer le pôle Étudiants"
+    },
+    "services": { "title": "Prestations" },
+    "values": {
+      "items": [
+        { "title": "Méthode structurée", "body": "Un cadre clair, des étapes maîtrisées, des livrables actionnables." },
+        { "title": "Exigence & clarté", "body": "Rigueur académique, pragmatisme professionnel, résultats mesurables." },
+        { "title": "Accompagnement orienté réussite", "body": "Confiance, autonomie guidée et préparation ciblée." }
+      ]
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "items": [
+        { "q": "Travaillez-vous avec des promotions entières ?", "a": "Oui, en B2B (écoles) ou en suivi individuel (B2C)." },
+        { "q": "Proposez-vous la préparation orale ?", "a": "Oui, entraînement type jury, structuration des supports et simulation." },
+        { "q": "Quels délais ?", "a": "Selon votre échéance. Planification rapide via devis ou contact." }
+      ]
+    }
+  },
+  "institutions": {
+    "title": "Pôle Institutions",
+    "intro": "Booster vos dispositifs de formation avec une ingénierie fiable, conforme et orientée apprentissage."
+  },
+  "students": {
+    "title": "Pôle Étudiants",
+    "intro": "Sécuriser votre réussite académique avec une méthode claire, des livrables solides et une préparation orale exigeante."
+  },
+  "about": {
+    "title": "Accueil",
+    "intro": "Une approche exigeante, structurée et orientée résultats pour les institutions et les étudiants.",
+    "section1Title": "Parcours & vision",
+    "section1Body": "RSB Learning & Development accompagne les institutions et les étudiants avec une pédagogie active, une rigueur méthodologique et une orientation résultats.",
+    "values": ["Clarté méthodologique", "Exigence & bienveillance", "Autonomie guidée"],
+    "processTitle": "Process",
+    "processBody": "Cadrage → Méthode → Livrables → Révision → Préparation orale / Déploiement (selon le besoin)."
+  },
+  "devis": {
+    "title": "Devis",
+    "intro": "Choisissez votre volet. Étudiants : packs & devis. Institutions : RDV & brief.",
+    "studentsTitle": "Étudiants",
+    "studentsBody": "Packs (sur devis) + formulaire. Nous cadrons votre besoin et votre échéance.",
+    "institutionsTitle": "Écoles / Institutions",
+    "institutionsBody": "Besoin spécifique : planifions un échange, puis proposition adaptée.",
+    "bookTitle": "Prendre RDV",
+    "bookBody": "Réservez un créneau pour cadrer votre besoin."
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Envoyez votre demande. Réponse rapide avec les prochaines étapes."
+  },
+  "serviceBlocks": {
+    "problemTitle": "Problématique",
+    "objectiveTitle": "Objectif",
+    "methodTitle": "Solution / Méthodologie",
+    "expertiseTitle": "Expertise métier",
+    "benefitTitle": "Bénéfice",
+    "relatedTitle": "Liens utiles"
+  },
+  "services": {
+    "formation": {
+      "kicker": "Institutions",
+      "title": "Conseil en Ingénierie de Formation",
+      "short": "Structurer des parcours certifiants et viables, sécurisés sur le plan réglementaire et optimisés pour l'apprentissage.",
+      "problem": "Structurer des parcours conformes et efficaces tout en garantissant une expérience d’apprentissage solide.",
+      "objective": "Structurer des parcours certifiants et viables.",
+      "methodology": [
+        "Conception de l’architecture pédagogique",
+        "Mise en conformité avec les référentiels de certification (RNCP/RS)",
+        "Création des outils de suivi et d’évaluation",
+        "Ingénierie de déploiement opérationnel"
+      ],
+      "expertise": ["Gestion", "Tourisme", "Marketing", "Management", "RH", "Communication"],
+      "benefit": "Un dispositif clé en main, sécurisé sur le plan réglementaire et optimisé pour l’apprentissage."
+    },
+    "interventions": {
+      "kicker": "Institutions",
+      "title": "Interventions Pédagogiques Expertes",
+      "short": "Enseignements de haut niveau du L1 au M2, pédagogie active & expérientielle pour maximiser l’engagement.",
+      "problem": "Délivrer des contenus actualisés et engageants avec une vraie exigence pédagogique.",
+      "objective": "Délivrer des enseignements de haut niveau du L1 au M2.",
+      "methodology": [
+        "Pédagogie active & expérientielle",
+        "Animation de modules et cas pratiques",
+        "Évaluations formatives et feedback"
+      ],
+      "expertise": [
+        "Administration & Gestion de Projet",
+        "Développement commercial & Négociation",
+        "Management & RH",
+        "Tourisme & Communication"
+      ],
+      "benefit": "Une expertise métier actualisée alliée à une maîtrise pédagogique éprouvée."
+    },
+    "memoires": {
+      "kicker": "Étudiants & Écoles",
+      "title": "Suivi de Mémoires & Projets Tuteurés",
+      "short": "Définition de problématique, structuration, relecture méthodologique et préparation orale, individuel ou promotions.",
+      "problem": "Transformer la recherche en livrable solide et maîtriser la soutenance sans se perdre dans la méthode.",
+      "objective": "Transformer la recherche académique en réussite.",
+      "methodology": [
+        "Définition de la problématique",
+        "Structuration du plan",
+        "Relecture méthodologique",
+        "Préparation orale (mode jury)"
+      ],
+      "expertise": ["Méthodologie", "Structuration", "Argumentation", "Oral", "Soutenance"],
+      "benefit": "Un contenu académique solide et une aisance totale lors de la soutenance pour viser la mention."
+    },
+    "bts": {
+      "kicker": "Étudiants",
+      "title": "Accompagnement BTS Tertiaires (SAM, GPME, MCO, TOUR)",
+      "short": "Matrices de rédaction, relecture critique et entraînement intensif aux oraux en mode jury.",
+      "problem": "Valider les épreuves pro avec un dossier conforme et performer à l’oral face au jury.",
+      "objective": "Valider les épreuves professionnelles avec efficacité.",
+      "methodology": [
+        "Matrices de rédaction exclusives (modèles guidés)",
+        "Relecture critique des fiches de situation",
+        "Entraînement intensif aux oraux (mode jury)"
+      ],
+      "expertise": ["SAM", "GPME", "MCO", "TOUR"],
+      "benefit": "Gain de temps majeur et garantie d’un dossier strictement conforme aux attentes des examinateurs."
+    }
+  },
+  "packs": {
+    "title": "Packs Étudiants",
+    "priceNote": "Sur devis (MVP)",
+    "cta": "Demander un devis",
+    "items": [
+      {
+        "title": "Pack Essentiel",
+        "includes": ["Cadrage & problématique", "Plan structuré", "1 relecture méthodologique"]
+      },
+      {
+        "title": "Pack Performance",
+        "badge": "Recommandé",
+        "includes": ["Essentiel", "2 relectures", "Préparation orale (simulation)"]
+      },
+      {
+        "title": "Pack Soutenance",
+        "includes": ["Focus oral", "Structure slides", "Entraînement type jury"]
+      }
+    ]
+  },
+  "forms": {
+    "contact": {
+      "name": "Nom / Prénom",
+      "email": "Email",
+      "phone": "Téléphone (optionnel)",
+      "audience": "Vous êtes",
+      "audienceInstitution": "École / Institution",
+      "audienceStudent": "Étudiant",
+      "subject": "Sujet (optionnel)",
+      "message": "Message",
+      "submit": "Envoyer",
+      "sending": "Envoi…",
+      "success": "Merci. Votre message a bien été envoyé.",
+      "error": "Une erreur est survenue. Réessayez."
+    },
+    "devis": {
+      "title": "Demande de devis",
+      "name": "Nom / Prénom",
+      "email": "Email",
+      "phone": "Téléphone (optionnel)",
+      "service": "Service",
+      "serviceGeneral": "Général",
+      "serviceMemoires": "Mémoires & Projets",
+      "serviceBts": "BTS Tertiaires",
+      "serviceFormation": "Ingénierie de Formation",
+      "serviceInterventions": "Interventions Pédagogiques",
+      "pack": "Pack (optionnel)",
+      "packPlaceholder": "Ex: Pack Performance",
+      "deadline": "Échéance (optionnel)",
+      "details": "Détails / Contexte",
+      "submit": "Envoyer la demande",
+      "sending": "Envoi…",
+      "success": "Demande envoyée. Nous revenons vers vous rapidement.",
+      "error": "Une erreur est survenue. Réessayez."
+    }
+  },
+  "footer": {
+    "title": "RSB Learning & Development",
+    "subtitle": "Ingénierie de Formation & Pédagogie — expertise orientée réussite.",
+    "navTitle": "Navigation",
+    "institutions": "Pôle Institutions",
+    "students": "Pôle Étudiants",
+    "about": "Accueil",
+    "devis": "Devis",
+    "contact": "Contact",
+    "strongTopicsTitle": "Thématiques fortes",
+    "topic1": "Aide mémoire & soutenance",
+    "topic2": "BTS : dossiers & oraux",
+    "topic3": "Ingénierie RNCP/RS",
+    "copyright": "© RSB Learning & Development. Tous droits réservés."
+  }
+}
