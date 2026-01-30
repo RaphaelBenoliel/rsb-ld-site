@@ -1,6 +1,6 @@
 import "@/app/globals.css";
 import { NextIntlClientProvider } from "next-intl";
-import { getMessages } from "next-intl/server";
+import { getMessages, setRequestLocale } from "next-intl/server";
 import { locales } from "@/i18n/routing";
 import Navbar from "@/components/Navbar";
 import FooterMega from "@/components/FooterMega";
@@ -16,6 +16,7 @@ export default async function LocaleLayout({
   children: React.ReactNode;
   params: { locale: string };
 }) {
+  setRequestLocale(params.locale);
   const messages = await getMessages();
 
   return (
